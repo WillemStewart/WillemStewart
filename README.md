@@ -1,7 +1,7 @@
 ### Hello 👋
 
-• My name is Willem Stewart and I am a programmer from Texas \n
-• Graduated from Tarrant County College with an IT degree focused on programming \n
+• My name is Willem Stewart and I am a programmer from Texas 
+• Graduated from Tarrant County College with an IT degree focused on programming 
 • Proficient in C++, Java, and Python 
 • PCEP Certified
 • Aspiring software developer
