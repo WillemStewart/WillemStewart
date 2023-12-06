@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hello 👋
+
+• My name is Willem Stewart and I am a programmer from Texas
+• Graduated from Tarrant County College with an IT degree focused on programming
+• Proficient in C++, Java, and Python 
+• PCEP Certified
+• Aspiring software developer
+• Currently learning web development
+• Fun Fact: I am also a music teacher and gigging guitarist 🎸
+
+Thanks for checking out my profile!
+Contact me at willemstewart64@gmail.com or 817-343-1463
+
+
+
+
 
 <!--
 **WillemStewart/WillemStewart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
