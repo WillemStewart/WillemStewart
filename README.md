@@ -9,7 +9,7 @@
 • Fun Fact: I am also a music teacher and gigging guitarist 🎸
 
 Thanks for checking out my profile!
-Contact me at willemstewart64@gmail.com or 817-343-1463
+Contact me at willemstewart64@gmail.com or (817) 343-1463
 
 
 
